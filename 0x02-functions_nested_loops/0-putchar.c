@@ -9,7 +9,7 @@ int main(void)
 	char alx[] = "_putchar";
 	int i = 0;
 
-	while (holberton[i] != '\0')
+	while (alx[i] != '\0')
 	{
 		alx([i]);
 		i++;
